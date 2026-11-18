@@ -1,1 +1,0 @@
-from .paper_updater import get_new_abstract
